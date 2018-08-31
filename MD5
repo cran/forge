@@ -1,0 +1,8 @@
+669511dddda446faafa0809e4730d7a0 *DESCRIPTION
+b7589ab173bb2f7610979bd081d984e6 *NAMESPACE
+736e3db3ad18b8a9e9cd5b2111387b43 *R/molds.R
+2a011baebcfae30a0e4bfa4408e40aca *R/molds_utils.R
+9616a3c2aa66935adcea21a0d847dac3 *README.md
+6edea23a178fc66652a6c5de7c840e3c *man/cast.Rd
+92c8a73ffae58bd14f8575b7e3ff4208 *tests/testthat.R
+c26d7967bc15853a0d4a1fe044a30c12 *tests/testthat/test-molds.R
